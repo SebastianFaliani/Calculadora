@@ -1,0 +1,4 @@
+Respuestas
+a)Hubiera funcionado de igual forma, pero no seria una forma correcta de organizar el codigo.
+b)Es mejor porque facilita la legibilidad, es mas facil para corregir los errores, y es reutilizable.
+c)100% seguro que si.
